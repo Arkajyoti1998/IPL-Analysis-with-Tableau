@@ -22,3 +22,6 @@ The dataset contains two files: *IPL Ball-by-Ball 2008-2020.csv* and *IPL Matche
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/100423431/205226741-5a6fa188-8cac-4e10-a607-ed52d0b6d631.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/100423431/205226773-8f8fce59-03a1-4304-ad7d-bfa46456ef62.png)
+  
+**Tableau Link :-** https://public.tableau.com/app/profile/arkajyoti.roy7002/viz/tableauprojectArkajyotiRoy/Tournament4simage
+
